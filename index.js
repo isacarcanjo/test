@@ -1,6 +1,6 @@
 const axios = require('axios').default;
 
-console.log(process.env.JAJA_GULOSO)
+console.log(process.env.JAJA_GULOSOX)
 
 setInterval(async () => {
     try {
