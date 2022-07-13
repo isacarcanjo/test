@@ -1,5 +1,4 @@
 const axios = require('axios').default;
-require('dotenv').config()
 
 console.log(process.env.JAJA_GULOSO)
 
